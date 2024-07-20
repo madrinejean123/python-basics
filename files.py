@@ -32,3 +32,6 @@ def remove():
     os.remove("newfile.txt")
     print("file has been deleted successfully")
 remove()
+
+
+print("hello world")
